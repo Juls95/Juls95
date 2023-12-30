@@ -1,10 +1,13 @@
-👋 Hi, I’m Julian Ramirez half Colombia, half Mexican. Data analyst for almost 6 years but right now learning about WEB3!
+👋 Hi, I’m Julian Ramirez, half Colombian, half Mexican. I have been a Data Strategist for almost 8 years with experience as a Data Engineer, Data Scientist, and Data Analyst!
+In my free time, I program on WEB3 on several Blockchains such as Ethereum, Lukso, and Arbtirum.
 
-I have experience working on consulting firms (Deloitte), 2 tech startups and also as teacher about Data analysis (from teaching Github to Machine Learning models)💞️. 
+I have experience working on consulting firms, and tech startups and also as a teacher on Data Analysis and Data Engineering courses (from teaching Github to Machine Learning models)💞️. 
 
 👀 My expertise stack is:
 - SQL
 - Python
+- ML (SkLearn, Pandas, Numpy)
+- Cloud Services (Azure, AWS, GCP)
 - BI Tools (PowerBI, Tableau)
 - Exceptional skills  in finding the right balance between data and business
 - Solidity
